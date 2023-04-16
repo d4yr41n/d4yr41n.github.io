@@ -1,4 +1,15 @@
 body {
   background-color: #000;
-  color: #FFF
+  color: #FFF;
+  font: 1.2rem sans-serif;
+  text-align: center;
 }
+
+nav, nav a {
+  margin: 2rem
+}
+
+a {
+  text-decoration: none
+}
+
