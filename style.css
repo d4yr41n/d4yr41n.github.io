@@ -14,3 +14,13 @@ a {
   text-decoration: none
 }
 
+article, section {
+  margin: 2.4rem;
+}
+
+button {
+  font-size: 1.2rem;
+  width: 4rem;
+  height: 2rem;
+}
+
