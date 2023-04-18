@@ -1,12 +1,12 @@
 body {
   background-color: #000;
   color: #FFF;
-  font: 1.2rem sans-serif;
+  font: 1rem sans-serif;
   text-align: center;
 }
 
 nav, nav a {
-  margin: 1.2rem
+  margin: 1rem
 }
 
 a {
@@ -15,11 +15,11 @@ a {
 }
 
 article, section {
-  margin: 2.4rem;
+  margin: 2rem;
 }
 
 button {
-  font-size: 1.2rem;
+  font-size: 1rem;
   width: 4rem;
   height: 2rem;
 }
