@@ -1,6 +1,6 @@
 @media (prefers-color-scheme: dark) {
 	body {
-		background: #000
+		background: #0f0f0f
 	}
 }
 
@@ -19,5 +19,9 @@ h1, h2, h3 {
 	body{
 		max-width: none
 	}
+}
+
+a {
+	text-decoration: none
 }
 
