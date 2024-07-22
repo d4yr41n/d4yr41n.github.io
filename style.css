@@ -1,32 +1,38 @@
 body {
 	background: #1f1f1f;
 	color: #ffffff;
-	font: 1.2rem sans-serif;
+	font: 1.5rem sans-serif;
 	margin: 0;
 }
 
-header, main {
+main {
 	margin: auto;
-	padding: 0 1.5rem;
+	padding: 1.5rem;
 	max-width: 48rem;
 }
 
-
 nav {
-	padding: .5rem;
 	background: #3f3f3f;
+	padding: .5rem .2rem;
 }
 
 nav a {
-	margin: 0 1rem;
+	padding: 0 .5rem
 }
 
 ul li {
-	margin: 1rem 0;
+	margin: .5rem 0;
 }
 
 a {
-	color: #007fff;
+	color: #ff007f;
 	text-decoration: none
 }
 
+a span, a img {
+	vertical-align: middle
+}
+
+i a, i span {
+	display: inline-block
+}
