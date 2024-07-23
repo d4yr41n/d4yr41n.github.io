@@ -2,22 +2,19 @@ body {
 	background: #1f1f1f;
 	color: #ffffff;
 	font: 1.2rem / 1.5 sans-serif;
-	margin: 0
-}
-
-main {
-	margin: auto;
-	padding: 0 1rem;
 	max-width: 48rem;
+	margin: auto;
+	padding: 0 1rem
 }
 
 nav {
-	background: #3f3f3f;
-	padding: .5rem .2rem;
+	padding: .5rem 0;
+	border-bottom: 0.1rem solid
 }
 
+
 nav a {
-	padding: 0 .5rem
+	padding-right: 2rem
 }
 
 a {
@@ -25,7 +22,7 @@ a {
 	text-decoration: none
 }
 
-a span, a img {
+a img, a span {
 	vertical-align: middle
 }
 
