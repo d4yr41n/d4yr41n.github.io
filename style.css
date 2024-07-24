@@ -2,14 +2,24 @@ body {
 	background: #1f1f1f;
 	color: #ffffff;
 	font: 1.2rem / 1.5 sans-serif;
+	margin: 0;
+}
+
+header {
+	background: #3f3f3f;
+}
+
+main, nav {
 	max-width: 48rem;
 	margin: auto;
+}
+
+main {
 	padding: 0 1rem
 }
 
 nav {
-	padding: .5rem 0;
-	border-bottom: 0.1rem solid
+	padding: 0.5rem 1rem;
 }
 
 
