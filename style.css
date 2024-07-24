@@ -22,9 +22,12 @@ nav {
 	padding: 0.5rem 1rem;
 }
 
-
 nav a {
 	margin-right: 2rem
+}
+
+a img, a span, nav a {
+	vertical-align: middle
 }
 
 a {
@@ -32,10 +35,6 @@ a {
 	text-decoration: none
 }
 
-a img, a span {
-	vertical-align: middle
-}
-
-i a, i span {
-	display: inline-block
+span {
+	text-wrap: nowrap
 }
