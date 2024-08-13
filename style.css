@@ -4,9 +4,10 @@ html, body {
 
 body {
 	font-family: sans;
-	max-width: 43rem;
+	max-width: 41rem;
 	margin: auto;
 	display: flex;
+	line-height: 1.4;
 	flex-direction: column;
 }
 
@@ -28,8 +29,9 @@ header img {
 	margin: auto 0
 }
 
-header div {
+.name {
 	display: flex;
+	text-align: center;
 	margin: auto 1rem;
 	flex-direction: column;
 	justify-content: space-evenly;
