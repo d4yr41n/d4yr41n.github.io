@@ -3,11 +3,12 @@ html, body {
 }
 
 body {
-	font-family: sans;
-	max-width: 41rem;
+	font: 16px/1.25 monospace;
+	max-width: 40rem;
 	margin: auto;
+	padding: 1rem;
+	box-sizing: border-box;
 	display: flex;
-	line-height: 1.4;
 	flex-direction: column;
 }
 
@@ -16,43 +17,19 @@ a {
 	text-decoration: none
 }
 
-.nowrap {
-	text-wrap: nowrap
-}
-
 header {
-	display: flex;
-	padding: 1rem;
-}
-
-header img {
-	margin: auto 0
-}
-
-.name {
-	display: flex;
-	text-align: center;
-	margin: auto 1rem;
-	flex-direction: column;
-	justify-content: space-evenly;
+	display: flex
 }
 
 .m-0 {
 	margin: 0
 }
 
-main {
-	padding: 0 1rem;
-}
-
-.quote {
-	border-left: .25rem solid #007fff;
-	padding: 1rem;
-	margin: 1rem .5rem;
+.m-1 {
+	margin: 1rem
 }
 
 footer {
-	text-align: center;
-	padding: 1rem;
-	margin-top: auto
+	margin-top: auto;
+	text-align: center
 }
