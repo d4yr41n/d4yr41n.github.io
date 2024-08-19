@@ -10,6 +10,10 @@ body {
 	flex-direction: column;
 }
 
+main img {
+	width: 100%
+}
+
 a {
 	color: #007fff;
 	text-decoration: none
