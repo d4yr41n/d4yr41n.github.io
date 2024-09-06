@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Fira Code";
-  src: url("font.woff2") format('woff2');
+  src: url("font.woff2") format('woff');
 }
 
 html {
@@ -13,6 +13,7 @@ html, body {
 
 body {
   font-family: "Fira Code", sans;
+  line-height: 1.5;
 	max-width: 40rem;
 	margin: auto;
 	display: flex;
@@ -23,6 +24,10 @@ main img {
 	width: 100%
 }
 
+h1, h2, h3 {
+	line-height: 1.2
+}
+
 a {
 	color: #007fff;
 	text-decoration: none
@@ -30,17 +35,16 @@ a {
 
 header {
 	display: flex;
-	padding: 1rem 1rem 0;
+	margin: 1rem 1rem 0;
 }
 
 main {
-	padding: 0 1rem
+	margin: 0 1rem
 }
 
 footer {
-	margin-top: auto;
+	margin: auto 1rem 1rem;
 	text-align: center;
-	padding: 1rem;
 }
 
 .m-0 {
@@ -49,6 +53,10 @@ footer {
 
 .m-1 {
 	margin: 1rem
+}
+
+.my-auto {
+	margin: auto 0
 }
 
 @media (prefers-color-scheme: light) {
