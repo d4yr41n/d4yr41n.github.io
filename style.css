@@ -46,7 +46,7 @@ footer {
 	margin: 1rem
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   body {
   	background: #1f1f1f;
   	color: #fff;
