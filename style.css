@@ -1,6 +1,5 @@
 html {
 	scrollbar-gutter: stable both-edges;
-
 }
 
 html, body {
@@ -47,7 +46,7 @@ footer {
 	margin: 1rem
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   body {
   	background: #1f1f1f;
   	color: #fff;
