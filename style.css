@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-  font-family: sans;
+  font-family: "Fira Code", sans;
 	max-width: 40rem;
 	margin: auto;
 	display: flex;
@@ -46,9 +46,16 @@ footer {
 	margin: 1rem
 }
 
+@media (prefers-color-scheme: light) {
+  body {
+  	color: #1f1f1f;
+  	background: #f1f1f1;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   body {
   	background: #1f1f1f;
-  	color: #fff;
+  	color: #f1f1f1;
   }
 }
