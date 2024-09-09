@@ -1,0 +1,10 @@
+#!/bin/sh
+
+for page in $(ls src/pages); do
+	file=${page}.html
+	cat src/templates/head > ${file}
+	while IFS= read line; do
+		echo "\t\t\t${line}" >> ${file}
+	done < src/pages/${page}
+	cat src/templates/tail >> ${file}
+done
