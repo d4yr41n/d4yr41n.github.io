@@ -44,7 +44,7 @@ body {
 	color: var(--fg);
   font-family: "Fira Code", sans;
   line-height: 1.5;
-	max-width: 40rem;
+	max-width: 50rem;
 	margin: 0 auto;
 	box-sizing: border-box;
 	display: flex;
@@ -107,6 +107,7 @@ code, button {
 }
 
 #theme-toggle {
+	border: 0;
 	background: var(--fg);
 	color: var(--bg);
 	text-decoration: underline;
