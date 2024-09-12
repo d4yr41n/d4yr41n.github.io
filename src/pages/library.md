@@ -53,14 +53,28 @@
 	<li>Fathers and Sons</li>
 	<li>Woe from Wit</li>
 	<li>The Republic</li>
+	<li>
+		Arthur Schopenhauer
+		<ul>
+			<li>On Women</li>
+			<li>On Thinking for Oneself</li>
+			<li>On Learning and the Learned</li>
+		</ul>
+	</li>
 	<li>Smoke Bellew</li>
 	<li>The Valley of the Moon</li>
 	<li>The Sea Wolf</li>
 	<li>The Call of the Wild</li>
 	<li>The Adventures of Tom Sawyer</li>
-	<li>Tomek on war path</li>
-	<li>Tomek traces Yeti</li>
-	<li>Tomek's secret expedition</li>
+	<li>
+		Tomek
+		<ul>
+			<li>Tomek in the Land of Kangaroos</li>
+			<li>Tomek on war path</li>
+			<li>Tomek traces Yeti</li>
+			<li>Tomek's secret expedition</li>
+		</ul>
+	</li>
 	<li>
 		Star Wars
 		<ul>
@@ -110,7 +124,11 @@
 		<ul>
 			<li>King Solomon's Mines</li>
 			<li>Allan Quatermain</li>
+			<li>Hunter Quatermain's Story</li>
 			<li>Allan's Wife</li>
+			<li>A Tale of Three Lions</li>
+			<li>Maiwa's Revenge</li>
+			<li>Long Odds</li>
 		</ul>
 	</li>
 	<li>A Story of the Stone Age</li>
@@ -118,6 +136,7 @@
 	<li>The Monster</li>
 	<li>History of the Art of War</li>
 	<li>Hamlet</li>
+	<li>Les voleurs de diamants</li>
 </ul>
 <h2>Cinema</h2>
 <ul>
@@ -201,6 +220,7 @@
 	<li>The Boys</li>
 	<li>You</li>
 	<li>Stranger Things</li>
+	<li>There Will Be Blood</li>
 	<li>
 		<h3>Anime</h3>
 		<ul>

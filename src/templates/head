@@ -4,18 +4,19 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="color-scheme" content="light dark">
-		<link rel="stylesheet" href="static/style.css">
-		<link rel="icon" type="image/svg" href="static/monad.svg">
+		<link rel="stylesheet" href="/static/style.css">
+		<link rel="icon" type="image/svg" href="/static/monad.svg">
 		<title>Day Rain</title>
 	</head>
 	<body>
 		<header>
-			<img width="96" height="96" src="static/monad.svg">
-			<div class="m-1">
+			<img width="96" height="96" src="/static/monad.svg">
+			<div class="mx-1 my-auto">
 				<h1 class="m-0">Day Rain</h1>
-				<a href="index.html">home</a> &middot;
-				<a href="library.html">library</a> &middot;
-				<a href="about.html">about</a>
+				<a href="/">home</a>
+				<span class="nowrap"> &middot; <a href="/library.html">library</a></span>
+				<span class="nowrap"> &middot; <a href="/blog.html">blog</a></span>
+				<span class="nowrap"> &middot; <a href="/about.html">about</a></span>
 			</div>
 		</header>
 		<main>
