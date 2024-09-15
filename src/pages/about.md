@@ -1,3 +1,8 @@
+<p>
+	<strong>Day Rain</strong> is my alias.
+	<br>
+	I'm a programmer, a fan of fine art, science and philosophy.
+</p>
 <h2>Programmer</h2>
 <ul>
 	<li>
@@ -11,7 +16,14 @@
 		</ul>
 	</li>
 	<li>
-		Software:
+		Frameworks and libraries:
+		<ul>
+			<li>Django REST</li>
+			<li>React</li>
+		</ul>
+	</li>
+	<li>
+		Projects:
 		<ul>
 			<li><a href="https://github.com/d4yr41n/ergo">ergo</a>: A minimal status bar for Wayland compositors</li>
 		</ul>

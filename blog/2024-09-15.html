@@ -23,21 +23,70 @@
 <h2>Android app development without Android Studio</h2>
 <time>2022-09-15</time>
 <p>
-This artice is written for those who cannot or do not want to use Android Studio.
+This artice is written for those who cannot or do not want to use <span class="nowrap">Android Studio</span>.
 </p>
-<p>First we need to install dependecies:</p>
+<h3>1. Install dependecies</h3>
 <ul>
     <li>jdk21-openjdk</li>
-    <li>gradle</li>
-    <li>android-build-tools</li>
-    <li>android-cmdline-tools</li>
-    <li>android-platform-tools</li>
-    <li>android-platforms</li>
+    <li>gradle 8.10.1-1</li>
+    <li>android-build-tools r34.0.0-2</li>
+    <li>android-cmdline-tools 13.0-3</li>
+    <li>android-platform-tools 35.0.1-1</li>
+    <li>android-platforms 35_r01-1</li>
 </ul>
+<p>Arch Linux example</p>
+<pre><code>sudo pacman -S jdk21-opendjk gradle
+mkdir -p ~/.aur
+cd ~/.aur
+for i in sdk-build-tools sdk-platform-tools sdk-cmdline-tools-latest platform; do
+git clone https://aur.archlinux.org/android-$i.git
+cd android-$i
+makepkg -sric
+done
+</pre></code>
+<h3>2. Initialize project</h3>
 <pre><code>mkdir alpha
 cd alpha
 gradle init
+
+Select type of build to generate:
+  1: Application
+  2: Library
+  3: Gradle plugin
+  4: Basic (build structure only)
+Enter selection (default: Application) [1..4]
+
+Select implementation language:
+  1: Java
+  2: Kotlin
+  3: Groovy
+  4: Scala
+  5: C++
+  6: Swift
+Enter selection (default: Java) [1..6] 2
+
+Enter target Java version (min: 7, default: 21):
+
+Project name (default: alpha):
+
+Select application structure:
+  1: Single application project
+  2: Application and library project
+Enter selection (default: Single application project) [1..2]
+
+Select build script DSL:
+  1: Kotlin
+  2: Groovy
+Enter selection (default: Kotlin) [1..2]
+
+Select test framework:
+  1: kotlin.test
+  2: JUnit Jupiter
+Enter selection (default: kotlin.test) [1..2]
+
+Generate build using new APIs and behavior (some features may change in the next minor release)? (default: no) [yes, no]
 </code></pre>
+<h3>3. Configure build</h3>
 <p>settings.gradle.kts</p>
 <pre><code>pluginManagement {
     repositories {
@@ -93,7 +142,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
- class MainActivity : Activity() {
+class MainActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState);
         val label = TextView(this);
@@ -116,10 +165,7 @@ import android.widget.TextView;
     &lt;/application&gt;
 &lt;/manifest&gt;
 </code></pre>
-<p>
-That's it. Connect to your device via adb and install the app.
-</p>
-
+<h3> 4. Connect your device via <a href="https://developer.android.com/tools/adb">adb</a> and install the app.</h3>
 <code><pre>
 adb connect 192.168.0.100:12345
 ./gradlew installDebug
