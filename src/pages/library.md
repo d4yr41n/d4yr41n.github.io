@@ -421,8 +421,8 @@
 			<li>Liberta</li>
 		</ul>
 	</li>
-	<li>Billy Joel - Pressure<li>
-	<li>Dead or Aliva - You Spin Me Round<li>
+	<li>Billy Joel - Pressure</li>
+	<li>Dead or Aliva - You Spin Me Round</li>
 	<li>
 		Boney M.
 		<ul>
