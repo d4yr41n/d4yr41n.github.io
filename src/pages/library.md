@@ -221,6 +221,7 @@
 	<li>You</li>
 	<li>Stranger Things</li>
 	<li>There Will Be Blood</li>
+	<li>Seven</li>
 	<li>
 		<h3>Anime</h3>
 		<ul>
@@ -364,11 +365,12 @@
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg">Caspar David Friedrich - Wanderer above the Sea of Fog</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/2560px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg">Raffaello Sanzio - The School of Athens</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/2560px-Nighthawks_by_Edward_Hopper_1942.jpg">Edward Hopper - Nighthawks</a></li>
-	<li><a href="https://upload.wikimedia.org/wikipedia/commons/f/fd/David_-_Napoleon_crossing_the_Alps_-_Malmaison2.jpg">Jacques-Louis David - Napoleon crossing the Alps</a></li>
 	<li><a href="https://uploads5.wikiart.org/images/salvador-dali/the-face-of-war-1941.jpg!Large.jpg">Salvador Dali - The Face of War</a></li>
+	<li><a href="https://arthive.com/res/media/img/oy1200/work/357/453885.webp">Edvard Munch - Despair</a></li>
+	<li><a href="https://upload.wikimedia.org/wikipedia/commons/f/fd/David_-_Napoleon_crossing_the_Alps_-_Malmaison2.jpg">Jacques-Louis David - Napoleon crossing the Alps</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/2560px-Jan_Matejko%2C_Sta%C5%84czyk.jpg">Jan Matejko - Stańczyk</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Caspar_David_Friedrich_-_Abtei_im_Eichwald_-_Google_Art_Project.jpg/2560px-Caspar_David_Friedrich_-_Abtei_im_Eichwald_-_Google_Art_Project.jpg">Caspar David Friedrich - Abtei im Eichwald</a></li>
-	<li><a href="https://static.wikia.nocookie.net/watchmen/images/d/d3/Mars.jpeg/revision/latest?cb=20191202013014"></a></li>
+	<li><a href="https://static.wikia.nocookie.net/watchmen/images/d/d3/Mars.jpeg/revision/latest?cb=20191202013014">Dr. Manhattan sitting on Mars</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/2560px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg">Théodore Géricault - The Raft of the Medusa</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/David_-_The_Death_of_Socrates.jpg/2560px-David_-_The_Death_of_Socrates.jpg">Jacques-Louis David - The Death of Socrates</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Newton-WilliamBlake.jpg/2560px-Newton-WilliamBlake.jpg">William Blake - Newton</a></li>
@@ -376,9 +378,13 @@
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/6/6b/Arthur_Schopenhauer_Portrait_by_Ludwig_Sigismund_Ruhl_1815.jpeg">Arthur Schopenhauer Portrait by Ludwig Sigismund Ruhl - Arthur Schopenhauer</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/b/b1/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg">Jean-Léon Gérôme - Diogenes Sitting in His Tub</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_Google_Art_Project.jpg/2560px-Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_Google_Art_Project.jpg">Peter Paul Rubens - Daniel in the Lions' Den</a></li>
-	<li><a href=""></a></li>
-	<li><a href=""></a></li>
-	<li><a href=""></a></li>
-	<li><a href=""></a></li>
-	<li><a href=""></a></li>
+	<li><a>Spongebob</a></li>
+	<li><a href="https://upload.wikimedia.org/wikipedia/commons/8/8d/Flaming_June%2C_by_Frederic_Lord_Leighton_%281830-1896%29.jpg">Frederic Lord Leighton - Flaming June</a></li>
+	<li><a href="https://upload.wikimedia.org/wikipedia/commons/0/06/Jove_decadent.jpg">Ramon Casas - Jove Decadent</a></li>
+	<li><a href="https://uploads2.wikiart.org/images/edvard-munch/the-scream-1910(1).jpg">Edvard Munk - The Scream</a></li>
+	<li><a href="https://upload.wikimedia.org/wikipedia/commons/0/0b/Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg">Pietro da Cortona - Battle of Alexander versus Darius</a></li>
+	<li><a href="https://upload.wikimedia.org/wikipedia/commons/9/93/Siege-alesia-vercingetorix-jules-cesar.jpg"a>Lionel Royer - Vercingetorix Throws Down His Arms at the Feet of Julius Caesar</a></li>
+	<li><a href="https://upload.wikimedia.org/wikipedia/commons/7/70/The_Black_Prince_of_Crecy.jpg">The Black Prince of Crecy</a></li>
+	<li><a href="https://4kwallpapers.com/images/wallpapers/alucard-artwork-3840x2160-13796.png">Alucard</a></li>
+	<li><a href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Frederich_August_Moritz_Retzsch.jpg">Frederich August Moritz Retzsch - Die Schachspieler</a></li>
 </ul>
