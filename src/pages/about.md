@@ -13,6 +13,7 @@
 			<li>C</li>
 			<li>POSIX shell</li>
 			<li>Rust</li>
+			<li>Kotlin</li>
 		</ul>
 	</li>
 	<li>
