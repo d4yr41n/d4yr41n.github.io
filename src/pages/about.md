@@ -36,8 +36,16 @@
 	<li>Code: 2501</li>
 	<li>Ward: 221B</li>
 	<li>
-		Disorders: active nihilism, scepsis, atheism,
-		introversion, perfectionism, minimalism, obsession
+		Disorders:
+		<ul>
+			<li>active nihilism</li>
+			<li>scepsis</li>
+			<li>atheism</li>
+			<li>introversion</li>
+			<li>perfectionism</li>
+			<li>minimalism</li>
+			<li>obsession</li>
+		</ul>
 	</li>
 	<li>Diagnosis: woe from wit</li>
 	<li>Conclusion: incurable</li>
