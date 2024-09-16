@@ -1,3 +1,3 @@
 <p>
-  Hi! You've reached my temple. Now explore it.
+  Hi! You've reached my temple. Explore it.
 </p>
