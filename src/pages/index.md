@@ -1,3 +1,3 @@
 <p>
-  Hi! You've reached my temple. Explore it :D
+  Hi, Wanderer! You've reached my temple. Be free to explore it.
 </p>

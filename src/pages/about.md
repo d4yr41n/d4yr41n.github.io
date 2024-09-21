@@ -43,6 +43,7 @@
 			<li>perfectionism</li>
 			<li>minimalism</li>
 			<li>obsession</li>
+			<li>criticism</li>
 		</ul>
 	</li>
 	<li>Diagnosis: woe from wit</li>
