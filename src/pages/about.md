@@ -30,7 +30,7 @@
 		</ul>
 	</li>
 </ul>
-<h2>Patient</h2>
+<h2>Soul</h2>
 <ul>
 	<li>Sanitarium: Castle Wolfenstein</li>
 	<li>Code: 2501</li>
