@@ -100,10 +100,49 @@ footer {
 	white-space: nowrap
 }
 
+.src {
+	display: flex;	
+}
+
+.line {
+	padding: 1rem
+}
+
 pre {
+	padding: .5rem 1rem;
 	background: var(--ug);
-	padding: 1rem;
+	margin: 0;
 	overflow-x: auto
+}
+
+pre:has(span) {
+	padding: 0
+}
+
+code {
+	counter-reset: lines
+}
+
+code span {
+	counter-increment: lines;
+}
+
+code span::before {
+	display: inline-block;
+	text-align: right;
+	margin: 0 1rem 0 0;
+	width: 2ch;
+	padding: 0 .5rem 0 1rem;
+	content: counter(lines);
+	background: #7f7f7f
+}
+
+code span:first-child::before {
+	padding: .5rem .5rem 0 1rem;
+}
+
+code span:last-child::before {
+	padding: 0 .5rem .5rem 1rem;
 }
 
 code, button {

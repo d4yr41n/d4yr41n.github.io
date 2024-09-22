@@ -46,8 +46,16 @@
 			<li>Chapterhouse: Dune</li>
 		</ul>
 	</li>
-	<li>The Voyage of the Space Beagle</li>
 	<li>Do Androids Dream of Electric Sheep?</li>
+	<li>
+		The Voyage of the Space Beagle
+		<ul>
+			<li>Black Destroyer</li>
+			<li>Discord in Scarlet</li>
+			<li>War of Nerves</li>
+			<li>M33 in Andromeda</li>
+		</ul>	
+	</li>
 	<li>Jurassic Park</li>
 	<li>It</li>
 	<li>Fathers and Sons</li>
@@ -117,7 +125,7 @@
 	<li>The Prince and the Pauper</li>
 	<li>The Mexican</li>
 	<li>White Fang</li>
-	<li>Hobbit</li>
+	<li>The Hobbit, or There and Back Again</li>
 	<li>Mit Breitseite und Enterbeil</li>
 	<li>
 		Allan Quatermain
@@ -137,6 +145,19 @@
 	<li>History of the Art of War</li>
 	<li>Hamlet</li>
 	<li>Les voleurs de diamants</li>
+	<li>Le Petit Prince</li>
+	<li>
+		Hans Christian Andersen
+		<ul>
+			<li>The Snow Queen</li>
+			<li>The Little Mermaid</li>
+			<li>The Steadfast Tin Soldier</li>
+			<li>The Princess and the Pea</li>
+			<li>The Ugly Duckling</li>
+			<li>Thumbelina</li>
+			<li>The Tinderbox</li>
+		</ul>
+	</li>
 </ul>
 <h2>Cinema</h2>
 <ul>
@@ -465,22 +486,22 @@
 			<li>Redbone - Come and Get Your Love</li>
 		</ul>
 	</li>
-	<h2>Opera</h2>
-	<ul>
-		<li>The Marriage of Figaro</li>
-	</ul>
-	<h2>Games</h2>
-	<ul>
-		<li>Max Payne</li>
-		<li>Wolfenstein</li>
-		<li>Doom</li>
-		<li>Battlefield 4</li>
-		<li>Beholder</li>
-		<li>Minecraft</li>
-		<li>The Witcher</li>
-		<li>Middle-earth: Shadow of Mordor</li>
-		<li>Command & Conquer</li>
-	</li>
+</ul>
+<h2>Opera</h2>
+<ul>
+	<li>The Marriage of Figaro</li>
+</ul>
+<h2>Games</h2>
+<ul>
+	<li>Max Payne</li>
+	<li>Wolfenstein</li>
+	<li>Doom</li>
+	<li>Battlefield 4</li>
+	<li>Beholder</li>
+	<li>Minecraft</li>
+	<li>The Witcher</li>
+	<li>Middle-earth: Shadow of Mordor</li>
+	<li>Command & Conquer</li>
 </ul>
 <h2>Gallery</h2>
 <ul>

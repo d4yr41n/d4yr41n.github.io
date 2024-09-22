@@ -1,6 +1,4 @@
 <p>
-	<strong>Day Rain</strong> is my alias.
-	<br>
 	I'm a programmer, a fan of fine art, science and philosophy.
 </p>
 <h2>Programmer</h2>
@@ -28,9 +26,15 @@
 		</ul>
 	</li>
 </ul>
-<h2>Soul</h2>
+<h2>Patient</h2>
 <ul>
-	<li>Sanitarium: Castle Wolfenstein</li>
+	<li>Sanitariums:
+		<ul>
+			<li>Barad-dûr</li>
+			<li>Minas Morgul</li>
+			<li>Castle Wolfenstein</li>
+		</ul>
+	</li>
 	<li>Code: 2501</li>
 	<li>Ward: 221B</li>
 	<li>
