@@ -13,30 +13,30 @@ html, body {
 
 @media (prefers-color-scheme: light) {
   body {
-  	--fg: #1f1f1f;
-  	--bg: #f1f1f1;
+		--fg: #1f1f1f;
+		--bg: #f1f1f1;
 		--ug: #dddddd;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   body {
-  	--bg: #1f1f1f;
-  	--fg: #f1f1f1;
-  	--ug: #3f3f3f;
+		--bg: #1f1f1f;
+		--fg: #f1f1f1;
+		--ug: #3f3f3f;
   }
 }
 
 body[data-theme=light] {
-  	--fg: #1f1f1f;
-  	--bg: #f1f1f1;
+		--fg: #1f1f1f;
+		--bg: #f1f1f1;
 		--ug: #dddddd;
 }
 
 body[data-theme=dark] {
-	  --bg: #1f1f1f;
-  	--fg: #f1f1f1;
-  	--ug: #3f3f3f;
+		--bg: #1f1f1f;
+		--fg: #f1f1f1;
+		--ug: #3f3f3f;
 }
 
 body {
@@ -134,7 +134,8 @@ code span::before {
 	width: 2ch;
 	padding: 0 .5rem 0 1rem;
 	content: counter(lines);
-	background: #7f7f7f
+	background: var(--lg);
+	border-right: .2rem solid #7f7f7f;
 }
 
 code span:first-child::before {
@@ -157,4 +158,12 @@ code, button {
 	position: absolute;
 	top: 1rem;
 	right: 1rem;
+}
+
+.text-align-right {
+	text-align: right
+}
+
+blockquote {
+	margin: 2rem 0 
 }
