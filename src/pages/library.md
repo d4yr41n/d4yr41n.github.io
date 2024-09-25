@@ -182,6 +182,13 @@
 	<li>Stalker</li>
 	<li>Saving Private Ryan</li>
 	<li>American Sniper</li>
+	<li>American Gangster</li>
+	<li>American Psycho</li>
+	<li>The Imitation Game</li>
+	<li>Revolver</li>
+	<li>Talented Mr. Ripley</li>
+	<li>World War Z</li>
+	<li>A Beautiful Mind</li>
 	<li>RocknRolla</li>
 	<li>Breaking Bad</li>
 	<li>Pawn Sacrifice</li>
@@ -234,6 +241,7 @@
 	<li>Mr. Robot</li>
 	<li>The Silence of the Lambs</li>
 	<li>Desperado</li>
+	<li>The Intouchables</li>
 	<li>True Detective</li>
 	<li>The Gentlemen</li>
 	<li>Shutter Island</li>
@@ -490,10 +498,12 @@
 <h2>Opera</h2>
 <ul>
 	<li>The Marriage of Figaro</li>
+	<li>Don Giovanni</li>
 </ul>
 <h2>Games</h2>
 <ul>
 	<li>Max Payne</li>
+	<li>Assassin's Creed</li>
 	<li>Wolfenstein</li>
 	<li>Doom</li>
 	<li>Battlefield 4</li>
@@ -503,7 +513,7 @@
 	<li>Middle-earth: Shadow of Mordor</li>
 	<li>Command & Conquer</li>
 </ul>
-<h2>Gallery</h2>
+<h2><a href="/gallery.html">Gallery</a></h2>
 <ul>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/8/87/Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg">Vincent van Gogh - Skull of a Skeleton with Burning Cigarette</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/6/60/Ivan_Aivazovsky_-_Ship_on_Stormy_Seas.jpg">Ivan Aivazovsky - Ship on Stormy Seas</a></li>
@@ -537,6 +547,8 @@
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/7/70/The_Black_Prince_of_Crecy.jpg">The Black Prince of Crecy</a></li>
 	<li><a href="https://4kwallpapers.com/images/wallpapers/alucard-artwork-3840x2160-13796.png">Alucard</a></li>
 	<li><a href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Frederich_August_Moritz_Retzsch.jpg">Frederich August Moritz Retzsch - Die Schachspieler</a></li>
+	<li><a href="https://upload.wikimedia.org/wikipedia/commons/5/5f/Napoleon_Bonaparte_by_Benjamin_Robert_Haydon.jpg">Benjamin Robert Haydon - Napoleon Bonaparte</a></li>
+	<li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Punishment_sisyph.jpg/1804px-Punishment_sisyph.jpg">Titian - Sisyphus</a></li>
 </ul>
 <blockquote>
 <em>
