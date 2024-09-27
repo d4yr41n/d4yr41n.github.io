@@ -557,5 +557,5 @@
 	but to banish your own thoughts so as to take up a book is a sin against the holy ghost;
 	it is like deserting untrammeled nature to look at a herbarium or engravings of landscapes."
 </em>
-<p class="text-align-right"><strong>- Arthur Schopenhauer</strong></p>
+<p class="text-align-right"><strong>- Arthur Schopenhauer, On Thinking for Oneself</strong></p>
 </blockquote>
