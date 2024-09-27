@@ -13,30 +13,38 @@ html, body {
 
 @media (prefers-color-scheme: light) {
   body {
-		--fg: #1f1f1f;
-		--bg: #f1f1f1;
-		--ug: #dddddd;
+		--bg: #eceff4;
+		--fg: #2e3440;
+		--hg: #d8dee9;
+		--ug: #4c566a;
+		--ag: #5e81ac;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   body {
-		--bg: #1f1f1f;
-		--fg: #f1f1f1;
-		--ug: #3f3f3f;
+		--bg: #2e3440;
+		--fg: #d8dee9;
+		--hg: #3b4252;
+		--ug: #e5e9f0;
+		--ag: #88c0d0;
   }
 }
 
-body[data-theme=light] {
-		--fg: #1f1f1f;
-		--bg: #f1f1f1;
-		--ug: #dddddd;
+[data-theme=light] {
+		--bg: #eceff4;
+		--fg: #2e3440;
+		--hg: #d8dee9;
+		--ug: #4c566a;
+		--ag: #5e81ac;
 }
 
-body[data-theme=dark] {
-		--bg: #1f1f1f;
-		--fg: #f1f1f1;
-		--ug: #3f3f3f;
+[data-theme=dark] {
+		--bg: #2e3440;
+		--fg: #d8dee9;
+		--hg: #3b4252;
+		--ug: #e5e9f0;
+		--ag: #88c0d0;
 }
 
 body {
@@ -69,11 +77,11 @@ h1, h2, h3 {
 }
 
 time {
-	color: #7f7f7f
+	color: var(--ug)
 }
 
 a {
-	color: #007fff;
+	color: var(--ag);
 }
 
 footer {
@@ -106,50 +114,11 @@ footer {
 	white-space: nowrap
 }
 
-.src {
-	display: flex;	
-}
-
-.line {
-	padding: 1rem
-}
-
 pre {
 	padding: .5rem 1rem;
-	background: var(--ug);
+	background: var(--hg);
 	margin: 0;
 	overflow-x: auto
-}
-
-pre:has(span) {
-	padding: 0
-}
-
-code {
-	counter-reset: lines
-}
-
-code span {
-	counter-increment: lines;
-}
-
-code span::before {
-	display: inline-block;
-	text-align: right;
-	margin: 0 1rem 0 0;
-	width: 2ch;
-	padding: 0 .5rem 0 1rem;
-	content: counter(lines);
-	background: var(--lg);
-	border-right: .2rem solid #7f7f7f;
-}
-
-code span:first-child::before {
-	padding: .5rem .5rem 0 1rem;
-}
-
-code span:last-child::before {
-	padding: 0 .5rem .5rem 1rem;
 }
 
 code, button {
@@ -158,8 +127,8 @@ code, button {
 
 #theme-toggle {
 	border: 0;
-	background: var(--fg);
-	color: var(--bg);
+	background: var(--bg);
+	color: var(--fg);
 	text-decoration: underline;
 	position: absolute;
 	top: 1rem;

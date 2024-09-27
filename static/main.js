@@ -19,13 +19,15 @@ function setTheme() {
 
 const button = document.createElement("button")
 function toggle() {
-  button.innerHTML = ["dark", "light"][+theme]
+  button.innerHTML = themes[+theme]
+  button.setAttribute("data-theme", themes[+theme]);
   theme = !theme
   localStorage.setItem("theme", themes[+theme])
   setTheme()
 }
 button.onclick = toggle
 button.innerHTML = themes[+!theme]
+button.setAttribute("data-theme", themes[+!theme]);
 button.id = "theme-toggle"
 
 document.body.appendChild(button)
