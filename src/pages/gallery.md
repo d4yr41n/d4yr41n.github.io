@@ -14,7 +14,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/David_-_Napoleon_crossing_the_Alps_-_Malmaison2.jpg">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/2560px-Jan_Matejko%2C_Sta%C5%84czyk.jpg">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Caspar_David_Friedrich_-_Abtei_im_Eichwald_-_Google_Art_Project.jpg/2560px-Caspar_David_Friedrich_-_Abtei_im_Eichwald_-_Google_Art_Project.jpg">
-<img src="https://static.wikia.nocookie.net/watchmen/images/d/d3/Mars.jpeg/revision/latest?cb=20191202013014">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/2560px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/David_-_The_Death_of_Socrates.jpg/2560px-David_-_The_Death_of_Socrates.jpg">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Newton-WilliamBlake.jpg/2560px-Newton-WilliamBlake.jpg">

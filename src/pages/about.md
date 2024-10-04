@@ -28,23 +28,16 @@
 	</li>
 	<li>Text editor: Helix</li>
 	<li>Colorscheme: <a href="https://github.com/d4yr41n/log2">log2</a></li>
-	<li>Font: Fira Code</li>
+	<li>Font: Fira Mono</li>
+	<li>OS: Alpine Linux</li>
+	<li><a href="https://github.com/d4yr41n/dotfiles">Dotfiles</a></li>
 </ul>
-<h2>Patient</h2>
+<h2>Mind</h2>
 <ul>
-	<li>Sanitariums:
-		<ul>
-			<li>Barad-dûr</li>
-			<li>Minas Morgul</li>
-			<li>Castle Wolfenstein</li>
-			<li>Camelot (current)</li>
-		</ul>
-	</li>
-	<li>Code: 2501</li>
-	<li>Ward: 221B</li>
 	<li>
 		Disorders:
 		<ul>
+			<li>logic</li>
 			<li>active nihilism</li>
 			<li>scepsis</li>
 			<li>atheism</li>
@@ -56,8 +49,7 @@
 			<li>principle</li>
 		</ul>
 	</li>
-	<li>Diagnosis: woe from wit</li>
-	<li>Conclusion: incurable</li>
+	<li>Conclusion: incurable woe from wit</li>
 </ul>
 <blockquote>
 	<em>
