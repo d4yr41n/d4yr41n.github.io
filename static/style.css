@@ -120,9 +120,9 @@ code, button {
 
 #theme-toggle {
 	border: 0;
+	text-decoration: underline;
 	background: var(--fg);
 	color: var(--bg);
-	text-decoration: underline;
 	position: absolute;
 	top: 1rem;
 	right: 1rem;

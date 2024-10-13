@@ -294,10 +294,27 @@
 				Ludwig van Beethoven
 				<ul>
 					<li>Symphony No. 3</li>
+					<li>Symphony No. 9</li>
 				</ul>
 			</li>
-			<li>Antonio Lucio Vivaldi</li>
-			<li>Gioachino Antonio Rossini</li>
+			<li>
+				<ul>
+					<li>Symphony No. 3</li>
+				</ul>
+			</li>
+			<li>
+				Antonio Lucio Vivaldi
+				<ul>
+					<li>The Four Seasons</li>
+				</ul>
+			</li>
+			<li>
+				Gioachino Antonio Rossini
+				<ul>
+					<li>La Gazza Larda</li>
+					<li>William Tell Overture</li>
+				</ul>
+			</li>
 			<li>
 				Aram Ilyich Khachaturian
 				<ul>
@@ -325,6 +342,9 @@
 					<li>Tannhäuser Overture</li>
 				</ul>
 			</li>
+			<li>Luigi Boccherini - Minuetto</li>
+			<li>Carl Orff - O Fortuna</li>
+			<li>Verdi - Requiem: Dies irae</li>
 			<li>George Frideric Handel - Sarabande</li>
 			<li>Philip Glass - Pruit Igoe</li>
 			<li>
@@ -344,6 +364,13 @@
 				Schubert
 				<ul>
 					<li>Ave Maria</li>
+					<li>Serenade</li>
+				</ul>
+			</li>
+			<li>
+				Erik Satie
+				<ul>
+					<li>Gymnopedie No. 1</li>
 				</ul>
 			</li>
 			<li>
@@ -352,6 +379,14 @@
 					<li>Night on Bald Mountain</li>
 				</ul>
 			</li>
+			<li>
+				Chopin
+				<ul>
+					<li>Nocturne Op. 9 No. 2</li>
+					<li>Ballade No. 1 in G minor Op. 23 (Krystian Zimerman)</li>
+				</ul>
+			</li>
+			<li>Carlos Gardel - Por una Cabeza</li>
 		</ul>
 	</li>
 	<li>
@@ -414,7 +449,7 @@
 				Avenged Sevenfold
 			</li>
 			<li>
-				Kiss - W Was Made For Lovin' You
+				Kiss - I Was Made For Lovin' You
 			</li>
 		</ul>
 	</li>
@@ -436,6 +471,10 @@
 	<li>
 		<h3>Misc</h3>
 		<ul>
+			<li>Element Of Crime - Blaulicht Und Zwielicht</li>
+			<li>Senorita Por Favor</li>
+			<li></li>
+			<li>Eduard Khil - Trololo</li>
 			<li>Miki Matsubara - Stay With Me</li>
 			<li>Anri - Last Summer Whisper</li>
 			<li>Junko Yagami - Bay City</li>

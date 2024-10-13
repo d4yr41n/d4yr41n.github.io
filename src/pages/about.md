@@ -16,7 +16,8 @@
 	<li>
 		Frameworks and libraries:
 		<ul>
-			<li>Django REST</li>
+			<li>Django/DRF</li>
+			<li>SQLAlchemy</li>
 			<li>React</li>
 		</ul>
 	</li>
