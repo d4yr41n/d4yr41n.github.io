@@ -56,6 +56,14 @@ header {
 	padding: 1rem 1rem 0;
 }
 
+header img {
+	animation: rotate 5s linear infinite;
+}
+
+@keyframes rotate {
+	100% {transform: rotate(360deg)}
+}
+
 main {
 	padding: 0 1rem
 }
