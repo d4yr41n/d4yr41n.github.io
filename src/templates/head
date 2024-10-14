@@ -10,7 +10,7 @@
 	</head>
 	<body>
 		<header>
-			<img width="96" height="96" src="/static/monad.svg">
+			<img class="rotate" width="96" height="96" src="/static/monad.svg">
 			<div class="mx-1 my-auto">
 				<h1 class="m-0">Day Rain</h1>
 				<a href="/">home</a>

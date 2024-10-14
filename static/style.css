@@ -56,7 +56,7 @@ header {
 	padding: 1rem 1rem 0;
 }
 
-header img {
+.rotate {
 	animation: rotate 5s linear infinite;
 }
 
