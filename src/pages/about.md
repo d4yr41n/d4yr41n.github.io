@@ -14,24 +14,29 @@
 		</ul>
 	</li>
 	<li>
-		Frameworks and libraries:
-		<ul>
-			<li>Django/DRF</li>
-			<li>SQLAlchemy</li>
-			<li>React</li>
-		</ul>
-	</li>
-	<li>
 		Projects:
 		<ul>
 			<li><a href="https://github.com/d4yr41n/ergo">ergo</a>: A minimal status bar for Wayland compositors</li>
 		</ul>
 	</li>
-	<li>Text editor: Helix</li>
-	<li>Colorscheme: <a href="https://github.com/d4yr41n/log2">log2</a></li>
-	<li>Font: Fira Mono</li>
-	<li>OS: Alpine Linux</li>
-	<li><a href="https://github.com/d4yr41n/dotfiles">Dotfiles</a></li>
+	<li>
+		Preferences
+		<ul>
+			<li>
+				Frameworks and libraries:
+				<ul>
+					<li><a href="https://www.starlette.io">Starlette</a></li>
+					<li><a href="https://www.sqlalchemy.org">SQLAlchemy</a></li>
+					<li><a href="https://www.sqlalchemy.org">React</a></li>
+				</ul>
+			</li>
+			<li>Text editor: Helix</li>
+			<li>Colorscheme: <a href="https://github.com/d4yr41n/log2">log2</a></li>
+			<li>Font: Fira Mono</li>
+			<li>OS: Alpine Linux</li>
+			<li><a href="https://github.com/d4yr41n/dotfiles">Dotfiles</a></li>
+		</ul>
+	</li>
 </ul>
 <h2>Mind</h2>
 <ul>

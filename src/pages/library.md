@@ -258,6 +258,11 @@
 	<li>Snatch</li>
 	<li>Moneyball</li>
 	<li>Monty Python and the Holy Grail</li>
+	<li>Lincoln</li>
+	<li>American Beauty</li>
+	<li>Apocalypto</li>
+	<li>The Magnificent Seven</li>
+	<li>The Hateful Eight</li>
 	<li>
 		<h3>Anime</h3>
 		<ul>
