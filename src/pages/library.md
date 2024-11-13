@@ -145,7 +145,10 @@
 	<li>History of the Art of War</li>
 	<li>Hamlet</li>
 	<li>Les voleurs de diamants</li>
-	<li>Le Petit Prince</li>
+	<li>The Little Prince</li>
+	<li>Around the World in Eighty Days</li>
+	<li>Journey to the Center of the Earth</li>
+	<li>Twenty Thousand Leagues Under the Seas</li>
 	<li>
 		Hans Christian Andersen
 		<ul>
