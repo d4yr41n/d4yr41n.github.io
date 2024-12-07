@@ -17,6 +17,7 @@
 		Projects:
 		<ul>
 			<li><a href="https://github.com/d4yr41n/ergo">ergo</a>: A minimal status bar for Wayland compositors</li>
+			<li><a href="https://github.com/d4yr41n/myers">myers</a>: A minimal terminal file explorer</li>
 		</ul>
 	</li>
 	<li>
@@ -52,7 +53,7 @@
 			<li>minimalism</li>
 			<li>obsession</li>
 			<li>criticism</li>
-			<li>principle</li>
+			<li>integrity</li>
 		</ul>
 	</li>
 	<li>Conclusion: incurable woe from wit</li>

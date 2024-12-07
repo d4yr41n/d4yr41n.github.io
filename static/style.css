@@ -1,5 +1,6 @@
 @font-face {
   font-family: "Fira Code";
+  font-display: block;
   src: url("/static/font.woff2") format('woff');
 }
 
@@ -29,7 +30,7 @@ html, body {
 
 body[data-theme=light] {
 		--bg: #efefef;
-		--fg: #0f0f0f;
+		--fg: #1f1f1f;
 		--hg: #dfdfdf
 }
 
