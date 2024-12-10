@@ -1,20 +1,25 @@
 #!/bin/sh
 
-for page in $(ls src/pages/*.md); do
-	file=$(basename -s md ${page})html
-	cat src/templates/head > ${file}
-	while IFS= read line; do
-		echo "${line}" >> ${file}
-	done < ${page}
-	cat src/templates/tail >> ${file}
-done
+build() {
+	for entry in $(ls ${1}); do
+		src=${1}/${entry}
+		dest=${2}/${entry}
+		if [ -f ${src} ]; then
+			cat src/templates/head > ${dest}
+			while IFS= read line; do
+				echo "${line}" >> ${dest}
+			done < ${src}
+			cat src/templates/tail >> ${dest}
+		else
+			mkdir -p ${dest}
+			build ${src} ${dest}
+		fi
+	done
+}
 
+main() {
+	mkdir -p build
+	build src/pages build
+}
 
-for page in $(ls src/pages/blog/*.md); do
-	file=blog/$(basename -s md ${page})html
-	cat src/templates/head > ${file}
-	while IFS= read line; do
-		echo "${line}" >> ${file}
-	done < ${page}
-	cat src/templates/tail >> ${file}
-done
+main
