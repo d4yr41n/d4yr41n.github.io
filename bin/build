@@ -20,6 +20,7 @@ build() {
 main() {
 	mkdir -p build
 	build src/pages build
+	cp -r static build
 }
 
 main
